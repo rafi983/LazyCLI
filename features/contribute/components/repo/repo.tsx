@@ -19,7 +19,7 @@ export default function Repo() {
         }}
       >
         <a
-          href="https://github.com/iammhador/lazycli"
+          href="https://github.com/rafi983/LazyCLI"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center bg-gradient-to-r from-cyan-500 to-blue-500 text-white px-8 py-4 rounded-xl font-semibold hover:shadow-lg hover:shadow-cyan-500/25 transition-all group"

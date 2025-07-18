@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="1.0.1-iammhador"
+VERSION="1.0.1-rafi983"
 
 show_help() {
   cat << EOF

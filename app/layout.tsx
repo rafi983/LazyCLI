@@ -29,12 +29,12 @@ const siteConfig = {
     "Streamline your development process with LazyCLI - the intelligent CLI tool that automates GitHub workflows, Node.js setup, Next.js scaffolding, and more. Built for developers who value efficiency.",
   url: "https://lazycli.xyz",
   author: {
-    name: "iammhador",
-    twitter: "@iammhador",
+    name: "rafi983",
+    twitter: "@rafi983",
   },
   social: {
     twitter: "@lazycli",
-    github: "https://github.com/iammhador/lazycli",
+    github: "https://github.com/rafi983/LazyCLI",
   },
 };
 

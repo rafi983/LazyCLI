@@ -6,7 +6,7 @@
   **Automate your development workflow like a lazy pro** 💤
   
   [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-  [![Version](https://img.shields.io/badge/version-1.0.2-blue.svg)](https://github.com/iammhador/lazycli)
+  [![Version](https://img.shields.io/badge/version-1.0.2-blue.svg)](https://github.com/rafi983/LazyCLI)
   [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
   
   *A powerful, Bash-based command-line interface that simplifies your development and deployment workflow — from initializing projects to pushing code to GitHub — all in a single CLI tool.*

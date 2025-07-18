@@ -23,7 +23,7 @@ export default function Contribution({
       description:
         "Start by forking the main LazyCLI repository to your GitHub account.",
       action: "Fork on GitHub",
-      link: "https://github.com/iammhador/lazycli",
+      link: "https://github.com/rafi983/LazyCLI",
     },
     {
       icon: Code2,
@@ -62,7 +62,6 @@ export default function Contribution({
   ];
   return (
     <>
-      {" "}
       <motion.section
         className="mb-20"
         variants={{
@@ -133,7 +132,7 @@ export default function Contribution({
                       className="inline-flex items-center text-cyan-400 hover:text-cyan-300 font-medium"
                     >
                       {step.action}
-                      <ExternalLink className="w-4 h-4 ml-2" />
+                      <ExternalLink className="w-4 h-4 ml-2" aria-label="External link" />
                     </a>
                   )}
 

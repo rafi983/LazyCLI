@@ -20,7 +20,7 @@ export async function GET() {
 
     // Fetch repository data
     const repoResponse = await fetch(
-      'https://api.github.com/repos/iammhador/lazycli',
+      'https://api.github.com/repos/rafi983/LazyCLI',
       {
         headers,
         next: { revalidate: 300 } // Cache for 5 minutes
@@ -35,7 +35,7 @@ export async function GET() {
 
     // Fetch contributors data
     const contributorsResponse = await fetch(
-      'https://api.github.com/repos/iammhador/lazycli/contributors',
+      'https://api.github.com/repos/rafi983/LazyCLI/contributors',
       {
         headers,
         next: { revalidate: 300 } // Cache for 5 minutes

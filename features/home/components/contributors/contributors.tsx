@@ -231,7 +231,7 @@ export default function Contributors({
           className="text-center mt-16"
         >
           <motion.a
-            href="https://github.com/iammhador/lazycli"
+            href="https://github.com/rafi983/LazyCLI"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center space-x-2 bg-gradient-to-r from-purple-400/10 to-pink-400/10 hover:from-purple-400/20 hover:to-pink-400/20 border border-purple-400/20 hover:border-purple-400/40 text-slate-600 hover:text-white px-8 py-4 rounded-xl font-medium transition-all duration-300 backdrop-blur-sm"

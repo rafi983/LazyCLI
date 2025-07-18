@@ -81,7 +81,7 @@ export default function Footer() {
               <div className="hidden sm:block text-slate-400 text-sm">•</div>
               <motion.a
                 whileHover={{ scale: 1.05 }}
-                href="https://github.com/iammhador/lazycli?tab=MIT-1-ov-file#readme"
+                href="https://github.com/rafi983/LazyCLI?tab=MIT-1-ov-file#readme"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-slate-400 hover:text-cyan-400 transition-colors text-sm flex items-center"
@@ -153,7 +153,7 @@ export default function Footer() {
                 <div className="space-y-2">
                   <motion.a
                     whileHover={{ x: 5 }}
-                    href="https://github.com/iammhador/lazycli"
+                    href="https://github.com/rafi983/lazycli"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block text-slate-400 hover:text-cyan-400 transition-colors text-xs sm:text-sm flex items-center"
@@ -187,7 +187,7 @@ export default function Footer() {
                   </motion.a>
                   <motion.a
                     whileHover={{ x: 5 }}
-                    href="https://github.com/iammhador/lazycli?tab=MIT-1-ov-file#readme"
+                    href="https://github.com/rafi983/lazycli?tab=MIT-1-ov-file#readme"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block text-slate-400 hover:text-cyan-400 transition-colors text-xs sm:text-sm flex items-center"
